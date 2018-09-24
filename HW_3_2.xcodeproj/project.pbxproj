@@ -14,6 +14,8 @@
 		A2D05FDA2153E6C600894312 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D05FD82153E6C600894312 /* LaunchScreen.storyboard */; };
 		A2D05FE52153E6C600894312 /* HW_3_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D05FE42153E6C600894312 /* HW_3_2Tests.swift */; };
 		A2D05FF02153E6C600894312 /* HW_3_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D05FEF2153E6C600894312 /* HW_3_2UITests.swift */; };
+		A2D060002153E98A00894312 /* DecimalMinusTextField 10-12-02-294.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D05FFF2153E98A00894312 /* DecimalMinusTextField 10-12-02-294.swift */; };
+		A2D060022153ECF800894312 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D060012153ECF800894312 /* SettingsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		A2D05FEB2153E6C600894312 /* HW_3_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW_3_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D05FEF2153E6C600894312 /* HW_3_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW_3_2UITests.swift; sourceTree = "<group>"; };
 		A2D05FF12153E6C600894312 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2D05FFF2153E98A00894312 /* DecimalMinusTextField 10-12-02-294.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "DecimalMinusTextField 10-12-02-294.swift"; path = "../../../../.Trash/DecimalMinusTextField 10-12-02-294.swift"; sourceTree = "<group>"; };
+		A2D060012153ECF800894312 /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				A2D05FD32153E6C400894312 /* Main.storyboard */,
 				A2D05FD62153E6C600894312 /* Assets.xcassets */,
 				A2D05FD82153E6C600894312 /* LaunchScreen.storyboard */,
+				A2D05FFF2153E98A00894312 /* DecimalMinusTextField 10-12-02-294.swift */,
 				A2D05FDB2153E6C600894312 /* Info.plist */,
+				A2D060012153ECF800894312 /* SettingsController.swift */,
 			);
 			path = HW_3_2;
 			sourceTree = "<group>";
@@ -256,6 +262,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2D060022153ECF800894312 /* SettingsController.swift in Sources */,
+				A2D060002153E98A00894312 /* DecimalMinusTextField 10-12-02-294.swift in Sources */,
 				A2D05FD22153E6C400894312 /* ViewController.swift in Sources */,
 				A2D05FD02153E6C400894312 /* AppDelegate.swift in Sources */,
 			);
